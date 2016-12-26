@@ -1,6 +1,6 @@
-![DJmixer][final.png]
+![DJmixer](final.png)
 
-Intor to DJmixer
+Intro to DJmixer
 ================
 
 This model designed by **Javad Vaezi** by **Blender** software.
