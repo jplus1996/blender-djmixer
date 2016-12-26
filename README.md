@@ -1,23 +1,19 @@
 ![DJmixer](final.png)
 
-Intro to DJmixer
+* DJ Mixer - pionner
 ================
 
 This model designed by **Javad Vaezi** by **Blender** software.
 
 Model is available in src folder.
 
-
 --------------
 
-
-Description
-===========
-
-It takes **4** days to complete.
-
-Rendering Time: 20 minutes
-
+*** Specification 
+=================
+model: folan bisar
 sample: 500
+render: 000
+creation: 4Day's
 
 
